@@ -1,7 +1,7 @@
 {
-  "name": "Blockception tagged release",
+  "name": "tagged release",
   "description": "Creates a new release when a tag is pushed.",
-  "iconName": "blockception",
+  "iconName": "logo",
   "categories": [ "release", "tag" ],
   "filePatterns": []
 }
