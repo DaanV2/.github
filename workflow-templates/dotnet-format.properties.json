@@ -1,0 +1,10 @@
+{
+  "name": ".Net formatting",
+  "description": "Formatts the project using dotnet",
+  "iconName": "logo",
+  "categories": [ ".net", "formatting" ],
+  "filePatterns": [
+    ".*\\.sln",
+    ".*\\.csproj"
+  ]
+}
