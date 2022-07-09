@@ -1,5 +1,5 @@
 {
-  "name": "tagged release",
+  "name": "Tagged Release",
   "description": "Creates a new release when a tag is pushed.",
   "iconName": "logo",
   "categories": [ "release", "tag" ],

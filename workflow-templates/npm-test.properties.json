@@ -1,5 +1,5 @@
 {
-  "name": "npm test workflow",
+  "name": "NPM test workflow",
   "description": "npm test.",
   "iconName": "logo",
   "categories": [ "npm", "unit testing" ],

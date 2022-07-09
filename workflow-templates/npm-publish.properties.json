@@ -1,5 +1,5 @@
 {
-  "name": "npm publish workflow",
+  "name": "NPM publish workflow",
   "description": "npm publish workflow to npmjs.",
   "iconName": "logo",
   "categories": [ "npm", "unit testing" ],
