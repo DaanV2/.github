@@ -1,0 +1,9 @@
+{
+  "name": "Create Markdown Indexes",
+  "description": "Creates indexes pages for documentation",
+  "iconName": "logo",
+  "categories": [ "markdown", "documentation" ],
+  "filePatterns": [
+    ".*[Dd]ocumentation.*"
+  ]
+}
